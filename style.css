@@ -1,0 +1,14 @@
+
+body
+{
+    background: lightblue;
+    text-align: center;
+}
+#answering{
+
+    height: 500px;
+    width: 500px;
+    background-color: white;
+    justify-content: center;
+    margin-left:515px ;
+}
